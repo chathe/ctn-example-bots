@@ -1,0 +1,14 @@
+{
+  "name": "ctn-node-bot",
+  "version": "1.0.0",
+  "description": "Example Bot written in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "dependencies": {
+    "socket.io-client": "^1.7.3"
+  }
+}
