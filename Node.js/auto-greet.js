@@ -5,7 +5,7 @@ var io = require('socket.io-client');
 var chat_room = '<enter room code>';
 var bot_username = '<enter bot name>';
 
-socket_url = 'wss://chat-png1408.rhcloud.com:8443';
+socket_url = 'wss://chathe.net';
 var socket = io.connect(socket_url);
 
 socket.on('connect', function() {
